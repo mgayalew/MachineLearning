@@ -1,5 +1,5 @@
 # MachineLearning
-Academic projects / assignments that includes:
+Contains projects such as:
   1. Document retrival
   2. Linear regression
   3. Sentment analysis
